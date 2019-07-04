@@ -30,4 +30,6 @@ michael.last_name = "Scott"
 
 some_knowledge = michael.teach
 
+jim.learn(some_knowledge)
+
 puts "Jim just learned this important knowledge: '#{jim.knowledge.first}' from Michael"
