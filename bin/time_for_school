@@ -21,5 +21,10 @@ puts "Steve just learned this important knowledge: '#{steve.knowledge.first}' fr
 
 
 jim = Student.new
-jim.first_name = Jim 
-jim.last_name = Cricket 
+jim.first_name = "Jim" 
+jim.last_name = "Halpert"
+
+michael = Teacher.new 
+michael.first_name = "Michael"
+michael.last_name = "Scott"
+
