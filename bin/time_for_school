@@ -28,6 +28,6 @@ michael = Teacher.new
 michael.first_name = "Michael"
 michael.last_name = "Scott"
 
-some_knowledge = micheal.teach
+some_knowledge = michael.teach
 
 puts "Jim just learned this important knowledge: '#{jim.knowledge.first}' from Michael"
